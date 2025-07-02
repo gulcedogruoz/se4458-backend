@@ -66,4 +66,8 @@ Bu proje, .NET microservices ve React frontend mimarisi kullanarak geliştirilmi
 git clone <repo-url>
 cd HotelBookingSystem
 
+---
+
+![ER Diagram](https://github.com/gulcedogruoz/se4458-backend/blob/main/ER.jpeg)
+
 
